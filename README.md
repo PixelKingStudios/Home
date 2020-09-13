@@ -6,10 +6,7 @@ This site serves as a "home page" for my other sites, where you'll find awesome 
 
 ### Other Links
 
-[YouTube Channel](https://www.youtube.com/channel/UClQz42Bug4Guojn3ofJgIhw)
-
-[DevForum Profile](https://devforum.roblox.com/u/p1x3l_k1ng)
-
-[Roblox Profile](https://www.roblox.com/users/967195595/profile)
-
+[YouTube Channel](https://www.youtube.com/channel/UClQz42Bug4Guojn3ofJgIhw) | 
+[DevForum Profile](https://devforum.roblox.com/u/p1x3l_k1ng) | 
+[Roblox Profile](https://www.roblox.com/users/967195595/profile) | 
 [Pixel Forums](https://pixelkingstudios.wixsite.com/forum)
