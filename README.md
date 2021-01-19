@@ -4,7 +4,7 @@ This site serves as a "home page" for my other sites, where you'll find awesome 
 
 ### Project Documentation
 
-[Welder](https://pixelkingstudios.github.io/Welder) | [Pixel Studio](https://pixelkingstudios.github.io/Studio/) | 
+[Welder](https://pixelkingstudios.github.io/Welder)
 
 ### Other Links
 
