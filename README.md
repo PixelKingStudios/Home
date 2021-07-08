@@ -4,8 +4,8 @@ This site serves as a "home page" for my other sites, where you'll find awesome 
 
 ### Project Documentation
 
-[Welder](https://pixelkingstudios.github.io/Welder)
+[Welder](https://pixelkingstudios.github.io/Welder) | [SmartText2](https://pixelkingstudios.github.io/SmartText2)
 
 ### Other Links
 
-[YouTube Channel](https://www.youtube.com/channel/UClQz42Bug4Guojn3ofJgIhw) | [DevForum Profile](https://devforum.roblox.com/u/p1x3l_k1ng) | [Roblox Profile](https://www.roblox.com/users/967195595/profile) | [GitHub Profile](https://github.com/PixelKingStudios)
+[YouTube Channel](https://www.youtube.com/c/PixelKingStudios) | [DevForum Profile](https://devforum.roblox.com/u/p1x3l_k1ng) | [Roblox Profile](https://www.roblox.com/users/967195595/profile) | [GitHub Profile](https://github.com/PixelKingStudios)
